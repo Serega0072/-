@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light theme (purple gradient) -->
+    <color name="bg_start">#A78BC4</color>
+    <color name="bg_mid">#8E9FC9</color>
+    <color name="bg_end">#4EC9A0</color>
+    <color name="card_bg">#D4B8E0</color>
+    <color name="card_bg_alpha">#BBA8D4</color>
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#FFFFFF</color>
+    <color name="accent_purple">#9B72CF</color>
+    <color name="accent_green">#4EC9A0</color>
+    <color name="toggle_on">#4CAF50</color>
+    <color name="toggle_off">#888888</color>
+    <color name="settings_bg">#B076C4</color>
+    <color name="settings_card">#C99AD6</color>
+    <color name="input_bg">#D9C2E8</color>
+    <color name="splash_btn_bg">#FFFFFF</color>
+    <color name="splash_btn_text">#333333</color>
+    <color name="nav_day_selected_bg">#FFFFFF</color>
+    <color name="nav_day_text">#1A1A2E</color>
+    <color name="event_dot">#FF4444</color>
+
+    <!-- Dark theme -->
+    <color name="dark_bg_start">#1A0A2E</color>
+    <color name="dark_bg_mid">#2D1B50</color>
+    <color name="dark_bg_end">#3D1A6B</color>
+    <color name="dark_card_bg">#3A2060</color>
+    <color name="dark_settings_bg">#2A1245</color>
+    <color name="dark_input_bg">#4A2A7A</color>
+    <color name="dark_text">#FFFFFF</color>
+    <color name="dark_settings_card">#3D2060</color>
+    <color name="dark_gradient_start">#1A0A2E</color>
+    <color name="dark_gradient_end">#2D1B50</color>
+    <color name="day_other_month">#AAAAAA</color>
+    <color name="text_on_settings">#333333</color>
+</resources>
