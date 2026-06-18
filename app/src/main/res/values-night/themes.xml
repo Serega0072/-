@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.RussianCalendar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent_purple</item>
+        <item name="colorPrimaryVariant">@color/dark_bg_start</item>
+        <item name="colorOnPrimary">@color/dark_text</item>
+        <item name="colorSurface">@color/dark_card_bg</item>
+        <item name="android:windowBackground">@color/dark_bg_end</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.RussianCalendar.Splash" parent="Theme.RussianCalendar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <color name="settings_bg">#2A1245</color>
+    <color name="settings_card">#3D2060</color>
+    <color name="card_bg">#3A2060</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_on_settings">#FFFFFF</color>
+</resources>
